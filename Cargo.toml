@@ -4,4 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-glfw = {version = "0.59.0"}
+glfw = "0.59.0"
+wgpu = "25.0.2"
+pollster = "0.3"

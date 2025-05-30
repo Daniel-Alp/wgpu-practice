@@ -7,3 +7,6 @@ sudo apt install libwayland-dev libxkbcommon-dev libx11-dev libxrandr-dev libxin
 ```
 ## Windows 11
 Install `cmake` (add `cmake` to `PATH`).
+
+# Credits
+https://www.youtube.com/watch?v=qDhrXimyN80&list=PLn3eTxaOtL2PNbW4ou-APMV9W9m6nppYl&index=2&pp=iAQB
